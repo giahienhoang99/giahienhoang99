@@ -21,11 +21,10 @@ I'm especially interested in building **distributed systems and cloud platforms*
 
 ## 📊 GitHub
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giahienhoang99&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giahienhoang99&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giahienhoang99&theme=github_dark)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=giahienhoang99&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=giahienhoang99&layout=compact&theme=github_dark" height="165" />
+</p>
 
 ## 🌐 Connect
 
