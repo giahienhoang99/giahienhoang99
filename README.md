@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hien
 
-I'm a software engineer interested in **distributed systems, cloud infrastructure, and platform engineering**.
+I'm a software engineer interested in distributed systems, cloud infrastructure, and platform engineering.
 
-I recently graduated from **Worcester Polytechnic Institute (WPI)** with a B.S. in Computer Science and a minor in Data Science.
+I recently graduated from Worcester Polytechnic Institute (WPI) with a B.S. in Computer Science and a minor in Data Science.
 
-At **Arista Networks**, I worked on distributed telemetry and cloud infrastructure for network security systems, while using **AI-assisted development tools in a production engineering environment**. I also worked at **DEKA Research & Development** on cloud platform tooling and backend services.
+At Arista Networks, I worked on distributed telemetry and cloud infrastructure for network security systems, while using AI-assisted development tools in a production engineering environment. I also worked at DEKA Research & Development on cloud platform tooling and backend services.
 
-I'm especially interested in building **distributed systems and cloud platforms**, and exploring how AI can make software engineering more productive.
+I'm especially interested in building distributed systems and cloud platforms, and exploring how AI can make software engineering more productive.
 
 ## 🛠️ Tech Stack
 
